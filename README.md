@@ -13,7 +13,7 @@
 ## 🔨 Technology Stacks
 - Language : <span><img src="https://img.shields.io/badge/Java-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/-c%2Fc%2B%2B-blue"/></span>
+<span><img src="https://img.shields.io/badge/C,C++-#00599C?style=flat&logo=c&logoColor=white"/></span>
 
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span><br/>
